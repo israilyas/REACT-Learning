@@ -5,22 +5,26 @@ import './index.css';
 let greeting;
 let time = new Date()
 
-if(time.getHours() >= 5 && time.getHours() <= 12){
-  greeting = "Good Morning"
-}
-else if(time.getHours() >= 12 && time.getHours() <= 17){
-  greeting = "Good Afternoon"
-}
-else if(time.getHours() >= 17 && time.getHours() <= 21){
-  greeting = "Good Evening"
-}
-else{
-  greeting = "Good Night"
-}
-
 // Inline styling
 const greet = {
   color:"green"
+}
+
+if(time.getHours() >= 5 && time.getHours() <= 12){
+  greeting = "Good Morning";
+  greet.color = "green";
+}
+else if(time.getHours() >= 12 && time.getHours() <= 17){
+  greeting = "Good Afternoon";
+  greet.color = "orange";
+}
+else if(time.getHours() >= 17 && time.getHours() <= 21){
+  greeting = "Good Evening";
+  greet.color = "red";
+}
+else{
+  greeting = "Good Night"
+ greet.color = "black";
 }
 
 
