@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 
 let greeting;
-let time = new Date()
+let time = new Date(2024,5,5,22)
 
 // Inline styling
 const greet = {
@@ -20,7 +20,7 @@ else if(time.getHours() >= 12 && time.getHours() <= 17){
 }
 else if(time.getHours() >= 17 && time.getHours() <= 21){
   greeting = "Good Evening";
-  greet.color = "red";
+  greet.color = "blue";
 }
 else{
   greeting = "Good Night"
