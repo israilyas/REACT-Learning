@@ -1,5 +1,4 @@
 import React from "react";
-import Greetings from './Greetings';
 
 function App() {
     let greeting;
@@ -28,9 +27,11 @@ function App() {
     }
 
     return (
-        <div className='container'>
-            <h1>Hello Sir, <span className='greet' style={greet}>{greeting}</span></h1>
-        </div>
+        <>
+            <div className='container'>
+                <h1>Hello Sir, <span className='greet' style={greet}>{greeting}</span></h1>
+            </div>
+        </>
     );
 }
 
