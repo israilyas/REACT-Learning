@@ -1,7 +1,7 @@
 const Menu = [
     {
         id: 1,
-        image: "https://via.placeholder.com/150?text=Maggi",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScQbYKAQLAi-2QCXQHfKQkAJoDQtngFlAkwy99Lm-TB-8IF3ocT9s7L03rNc-JOn1dRME&usqp=CAU",
         name: "Maggi",
         category: "Lunch",
         price: 50,
@@ -9,7 +9,7 @@ const Menu = [
     },
     {
         id: 2,
-        image: "https://via.placeholder.com/150?text=Paneer+Tikka",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa0-9DQ0d9dmoEUB-0F8Ln3cr6rYOQJRuVVg&s",
         name: "Paneer Tikka",
         category: "Dinner",
         price: 200,
@@ -17,7 +17,7 @@ const Menu = [
     },
     {
         id: 3,
-        image: "https://via.placeholder.com/150?text=Veg+Burger",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfH1xFRLK4Gn0S0nOqxcqi1QH_5NHyojA4Gw&s",
         name: "Veg Burger",
         category: "Snacks",
         price: 80,
@@ -25,7 +25,7 @@ const Menu = [
     },
     {
         id: 4,
-        image: "https://via.placeholder.com/150?text=Chow+Mein",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4HxI1R7E3dhr9SxMtJWe4Z-ra9cd5tGgSbw&s",
         name: "Chow Mein",
         category: "Lunch",
         price: 120,
@@ -33,7 +33,7 @@ const Menu = [
     },
     {
         id: 5,
-        image: "https://via.placeholder.com/150?text=Gulab+Jamun",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXF3TN0NQaQO_vkZwGoIz9C-qRV7uCJnzNVQ&s",
         name: "Gulab Jamun",
         category: "Dessert",
         price: 60,
@@ -41,7 +41,7 @@ const Menu = [
     },
     {
         id: 6,
-        image: "https://via.placeholder.com/150?text=Cold+Coffee",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPK264eGFAryAEIGeVKu0t67TpmPYQkP5mMA&s",
         name: "Cold Coffee",
         category: "Drinks",
         price: 70,
@@ -49,7 +49,7 @@ const Menu = [
     },
     {
         id: 7,
-        image: "https://via.placeholder.com/150?text=Masala+Dosa",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgggTQPdz965D3DyOVZ3KMMDlOVBPQPINHQ&s",
         name: "Masala Dosa",
         category: "Breakfast",
         price: 100,
@@ -57,7 +57,7 @@ const Menu = [
     },
     {
         id: 8,
-        image: "https://via.placeholder.com/150?text=Grilled+Sandwich",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGY73GZlVNqmCHvZOFqJORK7k6PZFxFnibGA&s",
         name: "Grilled Sandwich",
         category: "Breakfast",
         price: 90,
@@ -65,7 +65,7 @@ const Menu = [
     },
     {
         id: 9,
-        image: "https://via.placeholder.com/150?text=Chicken+Biryani",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4o2lCnuVp_xkwD2ogAPSPKfhP5r_vItGTIA&s",
         name: "Chicken Biryani",
         category: "Lunch",
         price: 180,
@@ -73,7 +73,7 @@ const Menu = [
     },
     {
         id: 10,
-        image: "https://via.placeholder.com/150?text=Fruit+Salad",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-mpTmnDZYeHhzY4_yNlvUMbJTeuAAlCZKjQ&s",
         name: "Fruit Salad",
         category: "Snacks",
         price: 50,
@@ -81,7 +81,7 @@ const Menu = [
     },
     {
         id: 11,
-        image: "https://via.placeholder.com/150?text=Lemonade",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtEbaB896Sb_9Sssv-bsEud1ypbVN5LAx-wA&s",
         name: "Lemonade",
         category: "Drinks",
         price: 40,
@@ -89,7 +89,7 @@ const Menu = [
     },
     {
         id: 12,
-        image: "https://via.placeholder.com/150?text=Chocolate+Brownie",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNC0YHJ-NnOhXKyBpqqsSuEkjEY6SjYFJW2w&s",
         name: "Chocolate Brownie",
         category: "Dessert",
         price: 150,
