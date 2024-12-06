@@ -1,8 +1,13 @@
 import React from 'react';
-import UseState from './component/Hooks/useState';
+// import UseState from './component/Hooks/useState';
+// import UseEffect from './component/Hooks/UseEffect';
+import UseReducer from './component/Hooks/useReducer';
+
 
 const App = () => {
-  return <UseState />
+
+
+  return <UseReducer />
 }
 
 export default App
